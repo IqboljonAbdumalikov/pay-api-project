@@ -1,0 +1,44 @@
+.transactions {
+    padding-top: 150px;
+    padding-bottom: 146px;
+    background-image: url("../../images/bg-transactions-two-phones.svg");
+    background-size: 1125px 780px;
+    background-repeat: no-repeat;
+    background-position: calc(50% + 475px) calc(50% + 220px);
+
+}
+.transactions__wrapper {
+    display: flex;
+    align-items: center;
+}
+.transactions__wrapper:first-child {
+    margin-bottom: 150px;
+}
+.transactions__wrapper:last-child {
+    
+    padding-top: 182px;
+    padding-bottom: 182px;
+}
+.transactions__img {
+    width: 445px;
+    height: 284px;
+    box-shadow: 25px 25px 80px rgba(54, 83, 107, 0.300727);
+    border-radius: 8px;
+    margin-right: 125px;
+}
+.transactions__info {
+    width: 445px;
+}
+.transactions__heading {
+    font-size: 48px;
+    line-height: 56px;
+    margin-bottom: 24px;
+    letter-spacing: -0.369231px;
+    color: var(--text-color-purple);
+}
+.transactions__desc {
+    font-size: 15px;
+    margin: 0;
+    line-height: 28px;
+    color: var(--text-color-grey);
+}

@@ -1,0 +1,12 @@
+.site-hero {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 240px;
+  padding-bottom: 152px;
+  background-repeat: no-repeat;
+  background-position: calc(50%) calc(50%);
+  background-image: url("../../images/site-hero-bg.png");
+  background-size: 780px 834px;
+}
+/*# sourceMappingURL=site-hero.css.map */
